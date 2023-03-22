@@ -1,4 +1,4 @@
-[![tweet](https://www.canva.com/design/DAFd6VmFLLw/tnBlq9kYmNwlG1IaaxuwA/editutm_content=DAFd6VmFLLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/) 
+[![tweet](https://twitter.com/mood_meter/status/647042395968786432/photo/1)](https://www.twittwe.com/) 
 
 ## IT_Academy_ProyectoFinal
 # Descifrando el lenguaje emocional en Twitter: Un análisis predictivo basado en aprendizaje automático
