@@ -34,4 +34,8 @@ asociadas con cada emoción y las tendencias de frecuencia de las emociones a lo
 
 
 ### Fuentes utilizadas:
-* 
+*  https://github.com/twintproject/twint
+*  https://data.world/crowdflower/sentiment-analysis-in-text
+* https://huggingface.co/docs/transformers/model_doc/bert
+* Wong, Y. K., Lee, S. S., & Hung, E. (2017). Emotion Detection in Twitter Using Deep Learning Approaches. In Proceedings of the 2017 International Joint Conference on 
+Neural Networks.
