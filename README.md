@@ -1,3 +1,5 @@
+[![twitter-baner]([http://ForTheBadge.com/images/badges/made-with-python.svg](https://www.canva.com/design/DAFd6VmFLLw/tnBl-q9kYmNwlG1IaaxuwA/edit?utm_content=DAFd6VmFLLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))](https://www.canva.com/) 
+
 ## IT_Academy_ProyectoFinal
 # Descifrando el lenguaje emocional en Twitter: Un análisis predictivo basado en aprendizaje automático
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
