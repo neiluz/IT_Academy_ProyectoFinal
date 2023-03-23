@@ -1,4 +1,4 @@
-[![twitter](https://www.canva.com/design/DAFd6VmFLLw/view)](https://www.canva.com/)  
+[![twitter](https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/twitter.png)](https://www.github.com/)  
 
 
 ## IT_Academy_ProyectoFinal
