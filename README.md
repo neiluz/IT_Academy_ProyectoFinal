@@ -15,25 +15,35 @@ Para alcanzar el objetivo, se utilizará la biblioteca Twint de Python para reco
 
 ### Objetivos:
 #### Objetivo General:
-Desarrollar un modelo que permita detectar emociones en los tweets y analizar patrones en el lenguaje utilizado en Twitter para ayudar en la detección temprana de trastornos emocionales como la depresión, la ansiedad, entre otros.
+Desarrollar un modelo que permita detectar emociones en los tweets y analizar patrones en el lenguaje utilizado en Twitter para ayudar en la detección temprana de trastornos emocionales, entre otros.
 
-#### Objetivos Especificos:
-* Pre-procesar los datos obtenidos para limpiarlos y estandarizarlos, incluyendo la eliminación de caracteres especiales, hashtags y menciones, y la normalización de las palabras.
-* Realizar un análisis exploratorio de los datos para identificar patrones y características relevantes para la detección de emociones, como las palabras más comunes 
-asociadas con cada emoción y las tendencias de frecuencia de las emociones a lo largo del tiempo.
-* Desarrollar y comparar dos algoritmos de procesamiento de lenguaje diferentes, como NTKL y Bert, para determinar cuál es el más efectivo para la detección de emociones en tweets.
-* Evaluar rigurosamente los modelos utilizando técnicas de validación cruzada y otras métricas de evaluación, como la precisión, el recall y la F1-score, y seleccionar el mejor modelo.
-* Realizar pruebas en datos nuevos para evaluar la eficacia del modelo en la detección de emociones en tweets que no se utilizaron durante el entrenamiento.
-* Crear una pipeline de automatización del modelo, que incluya el pre-procesamiento de los datos de entrada, la ejecución del modelo y la generación de resultados.
-
-### Definición de las variables:
-
+### Ficheros:
+* text_emotion: Dataset en que se basó el estudio para la aplicacion los modelos de prediccion. https://data.world/crowdflower/sentiment-analysis-in-text
+* test_data: Dataset que se utilizó para probar el modelo final. Se creo a partir de webscrapping de Twitter con la libreria TWINTT. 
+emotion_data_clean: El dataset resultó de la limpieza y exploracion del dataset text_emotion.
+* dataset1: resultado del preprocesamiento. Este dataset se encuentran las emociones clasificadas del dataset original.
+* dataset2: resultado del preprocesamiento. Este dataset se encuentran las emociones  del dataset original fueron transformadas en sentimientos como: Negativo, Positivo y Neutro.
+* dataset3: resultado del preprocesamiento. Este dataset se encuentran las emociones  del dataset original fueron transformadas en sentimientos como: Negativo, Positivo y Neutro con el analisis de polaridad de Vader.
 
 ### Estructura del repositorio:
-* 
+* EDA: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%202%20-%20EDA.ipynb
+* Pre - procesamiento:
+* Modelo CLF - Label Emociones: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%203%20-%20Pre-procesado.ipynb
+* Modelo CLF - Label Sentimientos: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%204%20-%20Modelaje%20ML%20-%20Clasificacion%20Base.ipynb
+* MODELO CLF - Polaridad Vader: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%206%20-%20Modelaje%20ML%20-%20Polarity%20Vader.ipynb
+* Modelo BERT - Label Emociones:
+* Modelo BERT - Label Sentimientos:
+* Modelo BERT - Label Sentimientos - Balanceado:
+* MODELO BERT - Polaridad Vader
+* MODELO BERT - Polaridad Vader - Balanceado
 
 ### Librerias utilizadas:
-* 
+* Panda
+* NLTK
+* Tensor 
+* Transformer de Bert 
+* SKlearn: Algoritmos de clasificacion y metricas de evaluación.
+* TWINTT
 
 
 ### Fuentes utilizadas:
