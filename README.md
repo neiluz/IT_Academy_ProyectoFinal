@@ -27,15 +27,15 @@ emotion_data_clean: El dataset resultó de la limpieza y exploracion del dataset
 
 ### Estructura del repositorio:
 * EDA: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%202%20-%20EDA.ipynb
-* Pre - procesamiento:
-* Modelo CLF - Label Emociones: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%203%20-%20Pre-procesado.ipynb
-* Modelo CLF - Label Sentimientos: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%204%20-%20Modelaje%20ML%20-%20Clasificacion%20Base.ipynb
+* Pre - procesado: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%203%20-%20Pre-procesado.ipynb
+* Modelo CLF - Label Emociones: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%204%20-%20Modelaje%20ML%20-%20Clasificacion%20Base.ipynb
+* Modelo CLF - Label Sentimientos: hhttps://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%205%20-%20Modelaje%20ML%20-%20Clasificacion%20Polarity.ipynb
 * MODELO CLF - Polaridad Vader: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%206%20-%20Modelaje%20ML%20-%20Polarity%20Vader.ipynb
-* Modelo BERT - Label Emociones:
-* Modelo BERT - Label Sentimientos:
-* Modelo BERT - Label Sentimientos - Balanceado:
-* MODELO BERT - Polaridad Vader
-* MODELO BERT - Polaridad Vader - Balanceado
+* Modelo BERT - Label Emociones: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%207.1%20Modelaje%20DL%20Clasificacion%20Base.ipynb
+* Modelo BERT - Label Sentimientos: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%207.2a%20Modelaje%20DL%20Polarity%20Vader.ipynb
+* Modelo BERT - Label Sentimientos - Balanceado: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%207.2b%20Modelo%20Bert%20-%20Polarity%20-Balanceo%20clases.ipynb
+* MODELO BERT - Polaridad Vader: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%207.3a%20Modelaje%20DL%20Polarity%20Vader.ipynb
+* MODELO BERT - Polaridad Vader - Balanceado: https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Notebooks/Notebook%207.3b%20Modelaje%20DL%20Polarity%20Vader%20balanceo.ipynb.ipynb
 
 ### Librerias utilizadas:
 * Panda
