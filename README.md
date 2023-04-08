@@ -46,7 +46,11 @@ emotion_data_clean: El dataset resultó de la limpieza y exploracion del dataset
 * TWINTT
 
 ### Resultados:
+En el presente estudio, se compararon dos modelos de análisis de sentimientos: SGDClassifier y BERT, aplicados a diferentes conjuntos de datos etiquetados con diferentes niveles de granularidad. La Tabla  muestra una comparación de las métricas de rendimiento de ambos modelos. 
 
+[![libro](https://github.com/neiluz/IT_Academy_ProyectoFinal/blob/main/Libro1-htm.jpg)](https://www.github.com/) 
+
+Los resultados indican que el modelo BERT supera al SGDClassifier en todos los conjuntos de datos analizados en términos de métricas de rendimiento de clasificación de sentimientos. En particular, el modelo BERT mostró un mejor rendimiento en el conjunto de datos etiquetados con sentimientos, alcanzando valores de f1, precisión y recall superiores al 60%. Además, los resultados sugieren que el balanceo de los datos puede ser una estrategia efectiva para mejorar el rendimiento del modelo en la clasificación de sentimientos con polaridad de Vader. Sin embargo, el modelo BERT todavía tiene dificultades en la detección de ciertas emociones, como "anger" y "boredom", lo que indica que se necesitan más investigaciones para mejorar el rendimiento del modelo en estas áreas.
 
 ### Fuentes utilizadas:
 *  https://github.com/twintproject/twint
