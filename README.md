@@ -37,6 +37,7 @@ emotion_data_clean: El dataset resultó de la limpieza y exploracion del dataset
 * Modelo BERT - Label Sentimientos - Balanceado
 * MODELO BERT - Polaridad Vader
 * MODELO BERT - Polaridad Vader - Balanceado
+* Pipeline con el mejor modelo de Machine Learning de clasificación
 
 ### Librerias utilizadas:
 * Panda
